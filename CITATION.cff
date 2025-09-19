@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: AI & SEO / LLM Visibility™ Glossary Dataset
+message: If you use this dataset, please cite it.
+authors:
+  - family-names: Bertram
+    given-names: Matthew
+    website: https://www.matthewbertram.com/
+identifiers:
+  - type: url
+    value: https://github.com/YOUR_GH_USER/ai-seo-llm-visibility-glossary
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-09-19
